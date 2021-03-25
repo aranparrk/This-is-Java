@@ -1,0 +1,10 @@
+package Day01;
+
+//019 산술연산자
+public class ArithmeticOperatorExample {
+
+	public static void main(String[] args) {
+		
+	}
+
+}
