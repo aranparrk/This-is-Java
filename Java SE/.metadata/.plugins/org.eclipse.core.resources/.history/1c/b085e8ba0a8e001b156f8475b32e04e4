@@ -1,0 +1,11 @@
+package Day02;
+
+//025 문자열 연결 연산자
+public class StringConcatExample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
