@@ -1,0 +1,12 @@
+package Day03;
+
+public class test {
+
+	public static void main(String[] args) {
+		int[] intArray = new int[3];
+		intArray[-1] = 10;
+		intArray[-3] = 10;
+
+	}
+
+}

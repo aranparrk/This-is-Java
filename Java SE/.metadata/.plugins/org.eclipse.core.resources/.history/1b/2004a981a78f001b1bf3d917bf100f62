@@ -1,0 +1,11 @@
+package Day03;
+
+//047 키보드로 while문 제어
+public class WhileKeyControlExample {
+
+	public static void main(String[] args) {
+		int keyCode = System.in.read();
+
+	}
+
+}
