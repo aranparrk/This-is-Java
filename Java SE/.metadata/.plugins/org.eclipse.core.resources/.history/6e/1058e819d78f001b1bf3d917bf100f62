@@ -1,0 +1,11 @@
+package Day04;
+
+//054 new 예약어로 배열 생성
+public class ArrayCreateByNewExample {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
