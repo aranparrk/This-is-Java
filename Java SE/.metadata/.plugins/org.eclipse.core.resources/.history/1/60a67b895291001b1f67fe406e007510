@@ -1,0 +1,11 @@
+package Day05;
+
+//064 필드값 출력
+public class FieldIntValueExample {
+
+	public static void main(String[] args) {
+		FieldInitValue fiv = new FieldInitVale();
+
+	}
+
+}
